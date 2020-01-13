@@ -18,6 +18,8 @@ module FancyDance
     end
   end
 
-
+  module metadata
+    "This class produces objects that love to dance."
+  end
 
 end
